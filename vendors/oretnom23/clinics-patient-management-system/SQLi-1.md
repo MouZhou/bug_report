@@ -1,6 +1,6 @@
 # Clinic's Patient Management System v1.0 by oretnom23 has SQL injection
 
-BUG_Author：JINLongZhou
+BUG_Author：JinLongZhou
 
 vendors: https://www.sourcecodester.com/php-clinics-patient-management-system-source-code
 
